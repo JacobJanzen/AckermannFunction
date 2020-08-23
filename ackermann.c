@@ -7,6 +7,7 @@ int main(){
 			printf("ack(%d,%d) is %d\n", i, j, ack(i,j));
 		}
 	}
+	return 0;
 }
 
 int ack(int m, int n){
